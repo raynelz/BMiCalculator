@@ -90,3 +90,7 @@ final class ViewController: UIViewController {
 		monsterImageView.contentMode = .scaleAspectFill
 	}
 }
+
+#Preview(traits: .portrait, body: {
+	ViewController()
+})
