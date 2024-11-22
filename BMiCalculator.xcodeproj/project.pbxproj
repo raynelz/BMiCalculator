@@ -14,6 +14,7 @@
 		EC292FE22CE7A6A500E9C8A3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC292FD62CE7A6A500E9C8A3 /* Assets.xcassets */; };
 		EC292FE42CE7A6A500E9C8A3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC292FD92CE7A6A500E9C8A3 /* LaunchScreen.storyboard */; };
 		EC292FE62CE7AA2600E9C8A3 /* BMISliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC292FE52CE7AA2600E9C8A3 /* BMISliderView.swift */; };
+		ECC5AD842CF0D6AE00FB7096 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECC5AD832CF0D6AE00FB7096 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		EC292FDA2CE7A6A500E9C8A3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		EC292FDB2CE7A6A500E9C8A3 /* UIView+AddSubviews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+AddSubviews.swift"; sourceTree = "<group>"; };
 		EC292FE52CE7AA2600E9C8A3 /* BMISliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BMISliderView.swift; sourceTree = "<group>"; };
+		ECC5AD832CF0D6AE00FB7096 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 		ECD839A52CD52A2D00A30BDA /* BMiCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BMiCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -47,6 +49,7 @@
 			isa = PBXGroup;
 			children = (
 				EC292FD12CE7A6A500E9C8A3 /* ViewController.swift */,
+				ECC5AD832CF0D6AE00FB7096 /* ResultViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -170,6 +173,7 @@
 				EC292FE62CE7AA2600E9C8A3 /* BMISliderView.swift in Sources */,
 				EC292FDD2CE7A6A500E9C8A3 /* ViewController.swift in Sources */,
 				EC292FDF2CE7A6A500E9C8A3 /* AppDelegate.swift in Sources */,
+				ECC5AD842CF0D6AE00FB7096 /* ResultViewController.swift in Sources */,
 				EC292FE02CE7A6A500E9C8A3 /* SceneDelegate.swift in Sources */,
 				EC292FE12CE7A6A500E9C8A3 /* UIView+AddSubviews.swift in Sources */,
 			);
